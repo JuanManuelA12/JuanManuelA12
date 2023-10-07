@@ -8,10 +8,11 @@ In addition to my passion for backend development, I stay up to date on the late
 
 In short, I am Juan Manuel Aguirre, an economist turned backend web developer. My background in economics and my passion for web development make me a valuable asset in any project. I am committed to delivering efficient technical solutions and am excited to continue growing in this exciting field.
 
-- 🔭 I’m currently working on: web application to increase efficiency in family farming
-- 🌱 I’m currently learning: Next, Php, data modeling
-- 🤔 I’m looking for help with: database administration
-- 💬 Ask me about: Developer web full stack
-- 📫 How to reach me: email: aguirre.juanmanuel029@gmail.com
+- 🔭 I’m currently working on: web application to increase efficiency in family farming.
+- 🔭 The main technologies used: Javascript, CSS, Html, React, Redux, Node.js, Express, Sequelize, Postgres.
+- 🌱 I’m currently learning: Next, Php, data modeling.
+- 🤔 I’m looking for help with: database administration.
+- 💬 Ask me about: Developer web full stack.
+- 📫 How to reach me: email: aguirre.juanmanuel029@gmail.com.
 
 -->
