@@ -1,6 +1,6 @@
 ### console.log ("Hello, welcome to my profile"); 👋
 ### print ("Let me introduce myself");
-![Ruta](./)
+![Ruta](./78K7.gif)
 
 My background in economics has given me a unique perspective in web development, as I understand business needs and can apply efficient and effective technical solutions. I consider myself a creative problem solver and am always looking for innovative ways to improve the efficiency and functionality of web applications.
 
