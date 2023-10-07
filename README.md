@@ -1,5 +1,5 @@
-### Hello, welcome to my profile 👋
-### Let me introduce myself
+### console.log ("Hello, welcome to my profile"); 👋
+### print ("Let me introduce myself");
 My background in economics has given me a unique perspective in web development, as I understand business needs and can apply efficient and effective technical solutions. I consider myself a creative problem solver and am always looking for innovative ways to improve the efficiency and functionality of web applications.
 
 My mindset is results-oriented and I have a strong work ethic. I stand out for my ability to collaborate in multidisciplinary teams and deliver high-quality projects within tight deadlines. I am an effective communicator and I like to translate technical requirements into clear and understandable solutions for stakeholders.
